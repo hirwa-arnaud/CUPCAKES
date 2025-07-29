@@ -137,3 +137,10 @@ align-items: center;
         flex: 0 1 100%;
       }
     }
+.head{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
