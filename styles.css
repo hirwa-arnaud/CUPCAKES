@@ -42,6 +42,28 @@ nav ul{
 }
 .para{
     height: 20vh;
-    background-color: purple;
     width: 100%;
+    text-align: center;
+    color: #956499;
+}
+.btn{
+height: 20vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.btn button{
+    height: 8vh;
+    width: 200px;
+    border: none;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: hsl(296, 39%, 65%);
+    color: white;
+}
+.name{
+    background: linear-gradient(to right, red, blue);
+    background-clip: text;
+    color: transparent;
 }
