@@ -94,8 +94,7 @@ align-items: center;
 
     .product-image {
       width: 100%;
-      height: 250px; /* Increased height */
-      background-color: #ddd;
+      height: 250px; 
       margin-bottom: 10px;
       border-radius: 8px;
     }
