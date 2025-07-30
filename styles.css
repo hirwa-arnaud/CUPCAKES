@@ -114,7 +114,7 @@ align-items: center;
 
     .buy-btn {
       padding: 8px 15px;
-      background-color: #007bff;
+      background-color: #e5a5e9;
       color: white;
       border: none;
       border-radius: 5px;
@@ -122,7 +122,7 @@ align-items: center;
     }
 
     .buy-btn:hover {
-      background-color: #0056b3;
+      background-color: #956499;
     }
 
     @media (max-width: 800px) {
